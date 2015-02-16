@@ -1,0 +1,1 @@
+convert -resize 1366x768\! Star_Topology.png Star_Topology2.png
